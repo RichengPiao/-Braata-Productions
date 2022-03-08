@@ -12,7 +12,7 @@ In this project:
 **2. Trank data for Patron event sign up**
 * Create interactive map to show where are Patrons located.
 
-**3. Track Merchandise sale **
+**3. Track Merchandise sale**
 * In-person cd sales: Track with QR codes
 * In-person T-shirt sales: Track with QR codes, by colors and sizes.
 * Website sales
