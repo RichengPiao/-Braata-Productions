@@ -1,7 +1,7 @@
 # Braata Productions Data Collecion Project
 This is github repository for the Braata Productions data collection project.
 
-In this project:
+## PLAN:
 
 **1. Setup Google Analytics  for webistes.**
 * Website: https://www.braataproductions.org/
