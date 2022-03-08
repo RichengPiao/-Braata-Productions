@@ -6,7 +6,7 @@ In this project:
 *Website\
 *Youtube: 414 subs with 120 viedos | 8 years \
 *Facebook: 1709 likes with 1951 people | post every one or two mounth \
-*Instagram: 591 Posts with 1535 followers | post every two weeks \
+*Instagram: 591 Posts with 1535 followers | post every two weeks 
 
 2. Trank data for Patron event sign up 
 * Create interactive map to show where are Patrons located.
