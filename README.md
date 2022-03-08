@@ -2,7 +2,7 @@
 This is github repository for the Braata Productions data collection project.
 
 In this project:
-1. Setup Google Analtics for webistes. 
+1. Setup Google Analtics for webistes. \
 *Website\
 *Youtube: 414 subs with 120 viedos | 8 years \
 *Facebook: 1709 likes with 1951 people | post every one or two mounth \
