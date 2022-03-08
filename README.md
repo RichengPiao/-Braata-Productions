@@ -35,18 +35,18 @@ This is github repository for the Braata Productions data collection project.
 
 **Prep: Initial Conversation, Defining Success & Goal Setting**
 * Shares relevant materials describing their programs
-* Professional facilitates conversation with Volunteer Manager to determine what constitutes program success
-* Professional and Volunteer Manager agree on goals, timeline, and next steps for the project
+* Facilitates conversation to determine what constitutes program success
+* Agree on goals, timeline, and next steps for the project
 
-**Milestone 1: Professional Identifies Key Metrics**
-* Professional comes up with a set of key metrics to track
-* Professional outlines how to track each metric, including frequency of measurement and unit of measurement
+**Milestone 1: Identifies Key Metrics**
+* Comes up with a set of key metrics to track
+* Outlines how to track each metric, including frequency of measurement and unit of measurement
 
 **Milestone 2: Data Collection & Analysis Tool Created**
-* Volunteer Manager provides feedback on the suggested metrics
-* Professional incorporates feedback into final set of metrics
-* Professional creates a spreadsheet for Organization to collect data, along with relevant tables and graphs to help analyze data
+* Braata Productions provides feedback on the suggested metrics
+* Incorporates feedback into final set of metrics
+* Creates a spreadsheet for Organization to collect data, along with relevant tables and graphs to help analyze data
 
 **Milestone 3: Team Training Session**
-* Professional trains team members how to collect the data points and enter them into the tool
-* Professional trains team members how to run reports and use them for analysis
+* Trains team members how to collect the data points and enter them into the tool
+* Trains team members how to run reports and use them for analysis
