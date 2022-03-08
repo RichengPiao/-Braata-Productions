@@ -5,6 +5,8 @@ This is github repository for the Braata Productions data collection project.
 
 **1. Setup Google Analytics  for webistes.**
 * Website: https://www.braataproductions.org/
+    * Track trafic
+       * Internal and external
     * Need access to backend to add Google Analytics tracking codes.
 * Youtube: 414 subs with 120 viedos | 8 years | why such poor permance?
 * Facebook: 1709 likes with 1951 people | post every one or two mounth 
