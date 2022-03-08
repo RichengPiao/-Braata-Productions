@@ -7,20 +7,20 @@ This is github repository for the Braata Productions data collection project.
 * Website: https://www.braataproductions.org/
     * Track trafic
        * Internal and external
-       * Total, Mountly, Weekly
+       * Total, Mountly, Weekly, growth
     * Need access to backend to add Google Analytics tracking codes.
 * Youtube: 414 subs with 120 viedos | 8 years | why such poor permance?
     * Track trafic
-       * Internal and external
-       * Total, Mountly, Weekly
+       * External
+       * Total, Mountly, Weekly, growth
 * Facebook: 1709 likes with 1951 people | post every one or two mounth 
     * Track trafic
-       * Internal and external
-       * Total, Mountly, Weekly
+       * External
+       * Total, Mountly, Weekly, growth
 * Instagram: 591 Posts with 1535 followers | post every two weeks | healthy
     * Track trafic
-       * Internal and external
-       * Total, Mountly, Weekly
+       * External
+       * Total, Mountly, Weekly, growth
 * Do we have a google account? 
    * Need schedule zoom meeting to setup Google Analytics account.
 
