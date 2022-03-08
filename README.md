@@ -6,5 +6,5 @@ In this project:
 *Website\
 *Youtube\
 *Facebook\
-*Instagram\
+*Instagram
 2. 
