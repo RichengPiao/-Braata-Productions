@@ -17,9 +17,9 @@ In this project:
 * Website sales
 
 4. Track Audience attendcace.
-* Total \
-* Average per event \
-* Average per event per location\
+* Total 
+* Average per event
+* Average per event per location
 
 Addtional quesion: \
 *why no apple music? or podcast? or Play store music?
