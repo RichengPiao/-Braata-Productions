@@ -25,7 +25,7 @@ This is github repository for the Braata Productions data collection project.
    * Need schedule zoom meeting to setup Google Analytics account.
 
 **2. Trank data for Patron event sign up**
-* Create interactive map to show where are Patrons located.
+* Create interactive map to show where are Patrons located based on there zipcode.
 
 **3. Track Merchandise sale**
 * In-person cd sales: Track with QR codes
@@ -39,7 +39,7 @@ This is github repository for the Braata Productions data collection project.
 * Average per event
 * Average per event per location
 
-**Addtional quesion:**
+**About the apple music, podcast, Play store music.**
 * why no apple music? or podcast? or Play store music?
 
 
